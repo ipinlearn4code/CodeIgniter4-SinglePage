@@ -1,5 +1,4 @@
-Here's a clean **GitHub-friendly README.md** file formatted for your **"Single Page App Example"** project:
-
+just for study
 ---
 
 # **Single Page App Example**
